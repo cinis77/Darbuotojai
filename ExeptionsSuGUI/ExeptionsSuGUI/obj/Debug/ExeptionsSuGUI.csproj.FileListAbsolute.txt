@@ -1,0 +1,9 @@
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\bin\Debug\ExeptionsSuGUI.exe.config
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\bin\Debug\ExeptionsSuGUI.exe
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\bin\Debug\ExeptionsSuGUI.pdb
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.csprojResolveAssemblyReference.cache
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.Properties.Resources.resources
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.csproj.GenerateResource.Cache
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.exe
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.pdb
+c:\users\drentelis\documents\visual studio 2015\Projects\ExeptionsSuGUI\ExeptionsSuGUI\obj\Debug\ExeptionsSuGUI.PesionAge.resources
